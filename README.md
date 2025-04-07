@@ -1,7 +1,3 @@
-Absolutely, I got you. Let’s dial it down, strip out the buzzwords, and write it like you’re talking to other devs who’ve been burned by Roact, confused by React, or just want something that *feels like Roblox*. Here's a chill, honest version of how you can describe **Squik** in your docs or wiki:
-
----
-
 # 🍳 What is Squik?
 
 **Squik** is a UI state management system for Roblox that keeps things simple.
