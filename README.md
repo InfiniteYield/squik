@@ -78,6 +78,3 @@ Simple, readable, no magic — just works.
 
 If you like scripting more than configuring, and you're tired of frameworks trying to be too clever, **Squik** is gonna feel like home.
 
----
-
-Let me know if you want to turn this into a full-on README or a styled wiki layout — we can format this cleanly with code samples, tutorials, and real-world use cases.
